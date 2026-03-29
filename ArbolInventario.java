@@ -19,6 +19,10 @@ public class ArbolInventario {
         else if (id > actual.id) {
             actual.derecho = insertarRecursivo(actual.derecho, id, nombre);
         }
+        // validar si el ID ya existe (no se permiten duplicados)
+        else {
+         System.out.println("El ID ya existe.");
+        }
 
         return actual;
     }

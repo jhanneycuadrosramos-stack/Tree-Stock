@@ -50,7 +50,7 @@ El sistema permite:
 ![Menú](img/menu.png)
 
 ### Registro de productos
-![Menú](img/menu.png)
+![Menú](img/registro.png)
 
 ### Inventario ordenado
 ![Inventario](img/inventario.png)
