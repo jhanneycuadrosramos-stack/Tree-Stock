@@ -1,3 +1,4 @@
+// Logica del arbol binario de busqueda
 public class ArbolInventario {
 
     Producto raiz; // aquí guardo la raíz del árbol
